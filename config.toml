@@ -1,0 +1,4 @@
+baseURL = "http://kkarolbz.github.io/"
+languageCode = "en-us"
+title = "kkarolbz"
+theme = "blog2"
